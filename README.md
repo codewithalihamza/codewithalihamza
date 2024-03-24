@@ -1,3 +1,6 @@
+<!-- <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Ali Hamza I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<br />
+-->
 # 💫 About Me:
 I'm Ali Hamza from Pakistan, an experienced Full Stack Developer. With a comprehensive understanding of both front-end and back-end technologies,  I am dedicated to creating strong and reliable software applications that perform well and meet the needs of the users effectively.
 
